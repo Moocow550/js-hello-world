@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+const num1 = 5;
+const num2 = 6;
+console.log ("Coding Rocks");
+console.log (varsum = num1 + num2);
 
 /*  
 Next, PLAY! 
