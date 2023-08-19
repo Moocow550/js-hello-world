@@ -6,8 +6,19 @@ to the console (the panel on the right)
 
 const num1 = 5;
 const num2 = 6;
-console.log ("Coding Rocks");
+console.log ("Coding Rocks the socks!");
 console.log (varsum = num1 + num2);
+console.log (7+3);
+console.log (3);
+console.log ("8+9");
+console.log ("the answer of 8+9 is " + (8+9));
+console.log (("the first message ") + ("the second message"));
+console.log ("And HE said 'You're the banana!'");
+console.log ('"single quote the double quotes!"');
+console.log ("how\nabout\nthat\n?");
+//console.log "blarg"
+
+
 
 /*  
 Next, PLAY! 
